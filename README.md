@@ -1,2 +1,2 @@
-# HTML
-This repository is containing all the assignment related to html.
+
+This repository is containing all the assignment related to front end development.
