@@ -1,0 +1,13 @@
+p{
+	border: 2px solid rgb(0,100,200);
+}
+input[type="text"]{
+	border: 2px solid blue;
+	background-color: gray;
+}
+input:checked{
+	background-color: blue;
+}
+h1 + p{
+	border: 5px dashed gray;
+}
